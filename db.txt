@@ -1,0 +1,2 @@
+SET abc 123
+SET bar 456
